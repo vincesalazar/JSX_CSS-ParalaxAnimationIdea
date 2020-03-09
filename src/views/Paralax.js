@@ -11,7 +11,7 @@ export default() => {
                 <div className="cont">
                     <div className="header">PARALAX</div>
                     <div className="main">
-                        <div>(<span>with paralax animation</span>)</div>
+                        <div>(<span>with paralax animation for desktop</span>)</div>
                     </div>
                 </div>
             </div>
